@@ -18,3 +18,8 @@
   
 ![3-](https://user-images.githubusercontent.com/113784775/200090359-e624c43c-aa41-474d-82d7-a4af32c0ad1d.jpg)
 ![4-](https://user-images.githubusercontent.com/113784775/200090362-5ac9f4a8-e165-44fb-aa34-d10a0436cba0.jpg)
+
+# annotation
+![20190715145908215](https://user-images.githubusercontent.com/113710845/200096819-9b34699a-f46d-4f4f-8b3d-858f5401366c.png)<br>
+Every time the host transmits a byte of data, that is, every time the peripheral receives a byte of data, the peripheral will pull down the SDA data line to answer (ACK) when the 9th clock pulse arrives. The SDA data line must be at a stable low level, indicating that a byte of data has been received
+
