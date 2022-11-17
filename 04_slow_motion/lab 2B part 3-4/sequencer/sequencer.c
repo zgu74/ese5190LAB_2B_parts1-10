@@ -11,7 +11,7 @@
 #define STOP_CODE 22
 
 const uint CAPTURE_PIN_BASE = 21;
-const uint CAPTURE_N_SAMPLES = 450;
+const uint CAPTURE_N_SAMPLES = 100;
 
 const uint NUMBER_BUF_SIZE = 7;
 
